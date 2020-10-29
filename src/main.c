@@ -80,7 +80,7 @@ static struct argp argp = { options, parse_opt, args_doc, doc };
 
 
 int main(int argc , char *argv[]){
-    printf("Hi!\n");
+    printf("Hi man !!\n");
     struct arguments arguments;
    
     /* Default values. */
